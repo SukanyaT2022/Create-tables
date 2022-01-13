@@ -1,0 +1,42 @@
+a:link {
+  color: green;
+  
+}
+nav a:link{
+	margin-bottom: 20px;
+	text-decoration:none;
+}
+table {
+border-collapse: collapse;
+width: 90%;
+ height:90vh; 
+text-align:center;
+margin: 0px auto 0px auto;
+
+}
+table, th, td {
+  border: 1px solid black;
+}
+td{
+text-align:right;
+vertical-align: bottom;
+padding:10px;
+}
+
+section{
+height:100vh; 
+}
+.holiday{
+font-size: 3em;
+}
+
+#new-years{background-color:red}
+#mlk-day{background-color:blue}
+#gw-day{background-color:yellow}
+#memorial-day{background-color:pink}
+#independence-day{background-color:aqua}
+#labor-day{background-color:magenta}
+#columbus-day{background-color:purple}
+#veterans-day{background-color:brown}
+#thanksgiving-day{background-color:cyan}
+#christmas-day{background-color:gold}
